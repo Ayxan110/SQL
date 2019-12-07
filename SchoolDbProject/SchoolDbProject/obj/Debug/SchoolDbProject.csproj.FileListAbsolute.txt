@@ -1,0 +1,11 @@
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\bin\Debug\SchoolDbProject.exe.config
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\bin\Debug\SchoolDbProject.exe
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\bin\Debug\SchoolDbProject.pdb
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\obj\Debug\SchoolDbProject.csprojAssemblyReference.cache
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\obj\Debug\SchoolDbProject.Properties.Resources.resources
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\obj\Debug\SchoolDbProject.SubjectAdd.resources
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\obj\Debug\SchoolDbProject.csproj.GenerateResource.cache
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\obj\Debug\SchoolDbProject.csproj.CoreCompileInputs.cache
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\obj\Debug\SchoolDbProject.exe
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\obj\Debug\SchoolDbProject.pdb
+C:\Users\aykhanzd\source\repos\SchoolDbProject\SchoolDbProject\obj\Debug\SchoolDbProject.TeacherAddForm.resources
