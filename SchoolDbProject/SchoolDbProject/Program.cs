@@ -16,7 +16,7 @@ namespace SchoolDbProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SubjectAdd());
+            Application.Run(new MainForm());
         }
     }
 }
